@@ -9,5 +9,5 @@ Context: The study of debris size in alpine environments can inform a range of p
 
 The main folder includes the Matlab code "DSD_map.m" and two folders containing the data from the two focus sites where we trained the methodology ("Martinets" and "Outans") and a folder "UAVs data" with the original orthomosaics and digital surface models employed to develop the methodology.
 
-Because of the file size, the folder "UAVs data" with the original orthomosaics and digital surface models employed to develop the methodology and the two images "Martinets_img.tif" and "Outans_img.tif" are available [here](https://drive.google.com/drive/folders/17XHSAgF0lsa0tEwKcVHydkAI_qjO2_R7?usp=sharing)
+Because of the file size, the folder "UAVs data" with the original orthomosaics and digital surface models employed to develop the methodology and the two images "Martinets_img.tif" and "Outans_img.tif" are available [here](https://drive.google.com/drive/folders/17XHSAgF0lsa0tEwKcVHydkAI_qjO2_R7?usp=sharing).
 Once downloanded, the images have to be moved in the corresponding folder before running the Matlab code. 
